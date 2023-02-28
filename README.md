@@ -1,6 +1,6 @@
 # Fetch And Render Data from API
 
-![screenshot](/screenshot.png)
+![screenshot](/screenshot2.png)
 
 ## Overview
 
