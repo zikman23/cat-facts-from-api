@@ -1,0 +1,11 @@
+.body {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.cats {
+  width: 400px;
+  margin-bottom: 20px;
+}
