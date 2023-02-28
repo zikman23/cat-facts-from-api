@@ -19,8 +19,8 @@ function App() {
     <div className="body">
       <h1>Meow Facts</h1>
       <img src="./cats.gif" className="cats" alt="cats"/>
-      <p>{fact}</p>
-      <button onClick={fetchData}>New Fact</button>
+      <blockquote class="blockquote"><p>{fact}</p></blockquote>
+      <button type="button" class="btn btn-primary" onClick={fetchData}>New Fact</button>
     </div>
   );
 }
