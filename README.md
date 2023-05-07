@@ -20,4 +20,4 @@ By now, you know how to fetch, manipulate, and render data from an external sour
 
 ## How to Run
 
-Please download the source code and run it on a local http-server.
+[View live project here.](https://meow-facts.vercel.app/) Alternatively, you can download the source code and run it on a local http-server.
